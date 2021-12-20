@@ -21,7 +21,7 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 </distributionManagement>
 
 
-===============ARTIFACTORY=================
+===============ARTIFACTORY=====================
 <distributionManagement>
 	<repository>
 		<id>rajesh</id>
